@@ -41,11 +41,6 @@ Create a .env file in the project root and add your News API key:
    env
    REACT_APP_NEWS_API=YOUR_API_KEY_HERE
 
-### Usage
-Start the development server:
-
-   ```bash
-   npm start
 
 ### Deployment
 The app is automatically deployed to Netlify when you push changes to your GitHub repository. Ensure you've set up the necessary build and deploy settings in your Netlify project.
