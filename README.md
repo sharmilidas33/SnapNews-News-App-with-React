@@ -29,27 +29,23 @@ This is a React-based news application that allows users to browse news articles
    git clone https://github.com/your-username/react-news-app.git
    Navigate to the project directory:
 
-```bash
-Copy code
-cd react-news-app
+   ```bash
+   cd react-news-app
 
 2. Install dependencies:
 
-```bash
-Copy code
-npm install
+   ```bash
+   npm install
 Create a .env file in the project root and add your News API key:
 
-env
-Copy code
-REACT_APP_NEWS_API=YOUR_API_KEY_HERE
+   ```env
+   REACT_APP_NEWS_API=YOUR_API_KEY_HERE
 
 ### Usage
 Start the development server:
 
-bash
-Copy code
-npm start
+   ```bash
+   npm start
 Open your browser and visit http://localhost:3000 to view the app.
 
 ### Deployment
