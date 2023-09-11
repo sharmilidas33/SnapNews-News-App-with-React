@@ -46,7 +46,6 @@ Start the development server:
 
    ```bash
    npm start
-Open your browser and visit http://localhost:3000 to view the app.
 
 ### Deployment
 The app is automatically deployed to Netlify when you push changes to your GitHub repository. Ensure you've set up the necessary build and deploy settings in your Netlify project.
