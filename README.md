@@ -38,7 +38,7 @@ This is a React-based news application that allows users to browse news articles
    npm install
 Create a .env file in the project root and add your News API key:
 
-   ```env
+   env
    REACT_APP_NEWS_API=YOUR_API_KEY_HERE
 
 ### Usage
