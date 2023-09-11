@@ -1,3 +1,6 @@
+# Indroducing SnapNews
+A single page web app developed using react js for delivering daily news to users.
+
 # React News App
 
 ![github 1](https://github.com/sharmilidas33/SnapNews-News-App-with-React/assets/128738858/522899c6-54b9-4c5e-8560-1d62f7be9be4)
