@@ -2,7 +2,7 @@
 User friendly news app to keep you updated about latest news!
 # React News App
 
-![App Screenshot](github1.png)
+![App Screenshot]([github1](https://github.com/sharmilidas33/SnapNews-News-App-with-React/issues/1#issue-1891285221).png)
 
 
 ## Description
