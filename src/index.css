@@ -1,0 +1,102 @@
+html,
+body {
+    background-color: rgb(255, 252, 230);
+}
+
+#news-item {
+    background-color: rgb(251, 224, 129);
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.6);
+}
+
+* {
+    font-family: 'SF Pro Display', 'Arial', sans-serif;
+}
+
+.custom-navbar {
+    background-color: #fbeba7;
+}
+
+#heading1 {
+    margin: 36px 10px;
+}
+
+#source {
+    display: flex;
+    justify-content: flex-end;
+    position: absolute;
+    right: 0;
+}
+
+.dark-mode{
+    background-color: #113639;
+    color: #fff;
+}
+.container{
+    background-color: rgb(255, 252, 230);
+}
+.dark-mode .container{
+    background-color: #113639;
+}
+
+
+.dark-mode .custom-navbar {
+    color: #fff;
+    background-color: #848181fc;
+    border-bottom: 1px solid #999;
+}
+
+.nav-link {
+    color: #0b0b0b;
+}
+
+.dark-mode .nav-link {
+    color: #fff;
+}
+
+.dark-mode .navbar-brand {
+    color: #fff;
+}
+
+.dark-mode-link {
+    color: #000000;
+}
+
+.dark-bg {
+    background-color: #a29dd8;
+}
+
+.dark-text {
+    color: #fff;
+}
+.dark-mode .card-body {
+    background-color: #02594d;
+    color: #ffffff;
+  }
+  
+  .dark-mode .card-title {
+    color: #ffffff;
+  }
+  
+  .dark-mode .card-text {
+    color: #ffffff;
+  }
+  
+  .dark-mode .badge {
+    background-color: #007bff;
+    color: #ffffff;
+  }
+  .dark-mode .card {
+    border: 1px solid #02594d;
+  }
+  .dark-mode .text-muted{
+    color: #fff;
+  }
+  .navbar .nav-link:last-child {
+    margin-left: 0;
+  }
+  
+  @media (max-width: 767px) {
+    .navbar .nav-link:last-child {
+      float: left;
+    }
+  }
