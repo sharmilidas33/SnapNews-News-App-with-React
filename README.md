@@ -10,8 +10,6 @@ A single page web app developed using react js for delivering daily news to user
 
 This is a React-based news application that allows users to browse news articles from various categories, such as General, Sports, Entertainment, Science, Health, and Technology. The app fetches data from the News API and provides a user-friendly interface for reading the latest news.
 
-The app is hosted on Netlify and can be accessed at [Live Demo](https://your-netlify-app-url.com).
-
 ## Features
 
 - Browse news articles by category.
